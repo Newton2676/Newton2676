@@ -1,7 +1,6 @@
 # 👋 Hey, I'm Guillain — Newton2676
 
-🎓 5th-year Engineering Student @ [ESILV](https://www.esilv.fr/) · MMN (Modélisation & Management Numérique)  
-💼 Embedded Systems & Hardware Qualification @ **Thales LAS France**  
+🎓 5th-year Engineering Student @ [ESILV](https://www.esilv.fr/) · MMN (Modélisation & Management Numérique)   
 🤗 Hugging Face → [Newton2676](https://huggingface.co/Newton2676)
 
 ---
