@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Guillain — Newton2676
 
-🎓 5th-year Engineering Student @ [ESILV](https://www.esilv.fr/) 
+🎓 5th-year Engineering Student @ [ESILV](https://www.esilv.fr/) \\
 🤗 Hugging Face → [Newton2676](https://huggingface.co/Newton2676)
 
 ---
