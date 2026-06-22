@@ -1,6 +1,5 @@
 # 👋 Hey, I'm Guillain — Newton2676
-
-🎓 5th-year Engineering Student @ [ESILV](https://www.esilv.fr/) \\
+🎓 5th-year Engineering Student @ [ESILV](https://www.esilv.fr/) \
 🤗 Hugging Face → [Newton2676](https://huggingface.co/Newton2676)
 
 ---
@@ -8,7 +7,6 @@
 ## 🚀 Projects
 
 ### 🤗 On Hugging Face — [huggingface.co/Newton2676](https://huggingface.co/Newton2676)
-
 > Les projets ML sont hébergés sur Hugging Face (modèles, datasets, démos interactives).
 
 ---
@@ -27,6 +25,19 @@ Fusion de 3 datasets audio publics (MAD, ESC-50, DroneAudioDataset) → pipeline
 
 ---
 
+#### ⚛️ Physics Solver — Fine-tuned LLM for Physics (Prépa / Licence)
+Fine-tuning de Mistral-7B sur un dataset agrégé de physique (SciBench, MMLU, GPQA, OlympiadBench) — raisonnement étape par étape niveau CPGE / L1-L3.
+
+| | Lien | Détails |
+|---|---|---|
+| 📦 Dataset | [`physics-solver-cpge`](https://huggingface.co/datasets/Newton2676/physics-solver-cpge) | SciBench · MMLU · GPQA · OlympiadBench |
+| 🤖 Modèle | [`mistral-7b-physics`](https://huggingface.co/Newton2676/mistral-7b-physics) | Mistral-7B · QLoRA 4-bit · SFT |
+| 🖥️ Demo live | [`physics-solver`](https://huggingface.co/spaces/Newton2676/physics-solver) | Gradio Space · 6 domaines |
+
+`Python` `PyTorch` `Transformers` `PEFT` `TRL` `QLoRA` `Gradio` `Mistral-7B`
+
+---
+
 #### 🤖 Mistral Chatbot — Pi 4 Local LLM
 Déploiement de Mistral 7B Q4 sur Raspberry Pi 4 (4GB) via llama.cpp — 100% offline, ~3-5 tokens/sec.
 
@@ -39,7 +50,6 @@ Déploiement de Mistral 7B Q4 sur Raspberry Pi 4 (4GB) via llama.cpp — 100% of
 ---
 
 ### 🐙 On GitHub — [github.com/Newton2676](https://github.com/Newton2676)
-
 > Les projets code sont hébergés ici sur GitHub.
 
 ---
@@ -74,7 +84,7 @@ Interface complète pour une compagnie de transport.
 ## 🧰 Stack
 
 **ML / AI**
-`PyTorch` `TensorFlow` `HuggingFace` `Transformers` `TFLite` `llama.cpp` `Gradio`
+`PyTorch` `TensorFlow` `HuggingFace` `Transformers` `TFLite` `llama.cpp` `Gradio` `PEFT` `TRL` `QLoRA`
 
 **Embarqué**
 `STM32Cube.AI` `llama.cpp` `Embedded Linux` `Raspberry Pi` `CMSIS-DSP`
